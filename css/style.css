@@ -1,0 +1,20 @@
+body{
+  background-color: #bfe5f79d;;
+}
+table, td, th {
+  border : 1px solid black;
+  border-collapse : collapse;
+}
+th {
+  color:  #654aff; 
+}
+td {
+  text-align: center;
+}
+img {
+  width: 150px;
+  height: auto;
+}
+h1 {
+  color:  #654aff;
+}
